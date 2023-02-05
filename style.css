@@ -1,0 +1,14 @@
+.black{   
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    display: inline-block;
+  }
+  .white{   
+    background-color:white;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    display: inline-block;
+  }
